@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "333655636989",
+    "project_id": "reexceed-322fd",
+    "storage_bucket": "reexceed-322fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333655636989:android:e688e24c71d93b246ff794",
+        "android_client_info": {
+          "package_name": "com.Lucas.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333655636989-7p5jmae6in5ie5qmhllkt9jl6q3cvja7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpPWe9f9dcuz-QYOd9n4sYitx_BCXmACA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333655636989-7p5jmae6in5ie5qmhllkt9jl6q3cvja7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333655636989:android:3c6e5c8c7c7f7caf6ff794",
+        "android_client_info": {
+          "package_name": "com.reexceed.rexceed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333655636989-7p5jmae6in5ie5qmhllkt9jl6q3cvja7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpPWe9f9dcuz-QYOd9n4sYitx_BCXmACA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333655636989-7p5jmae6in5ie5qmhllkt9jl6q3cvja7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
